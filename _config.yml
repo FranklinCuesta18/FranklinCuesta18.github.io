@@ -44,7 +44,7 @@ author:
   name:                <Franklin> <Cuesta>
   email:               <andrescuesta19@hotmail.com>
   # Used by `jekyll-seo-tag`:
-  # twitter:             <username>
+  twitter:             <franklin.cuesta.39982>
 
 # Add links to the sidebar.
 menu:
@@ -52,10 +52,6 @@ menu:
     url:               /
   - title:             Clases
     url:               /blog/
-  - title:             Documentation
-    url:               /docs/
-  - title:             About
-    url:               /about/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -303,10 +299,10 @@ plugins:
 
 # Used on index and about sites
 # social:
-#   name:                <firstname> <lastname>
+#   name:                <Franklin> <Cuesta>
 #   links:
-#     - https://twitter.com/<username>
-#     - https://github.com/<username>
+#     - https://twitter.com/franklin.cuesta.39982
+#     - https://github.com/FranklinCuesta18
 
 
 # Other Plugins
